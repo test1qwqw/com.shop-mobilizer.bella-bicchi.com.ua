@@ -3,8 +3,8 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.shop-mobilizer.bella-bicchi.com.ua"
-  version     = "15.09.07"
-  versionCode = "150907"
+  version     = "15.09.21"
+  versionCode = "150921"
 >
   <name>Интернет-магазин Bella Bicchi</name>
   <author
